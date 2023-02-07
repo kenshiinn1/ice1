@@ -73,13 +73,14 @@ public class CardTrick {
      *
      * @author Paul Bonenfant Jan 2022 *
      */
-    private static void printInfo() {
+   private static void printInfo() {
         System.out.println("Congratulations, you guessed right!");
-        System.out.println();
+        System.out.println("I'm climber");
         System.out.println("My name is Carlos, but you can call me doctor karlos or sir");
         System.out.println();
         System.out.println("My career ambitions: are making games");
         System.out.println();
+
 
     }
 }
